@@ -1,5 +1,0 @@
-a:
-in AND (NOT sel)
-
-b:
-in AND sel
