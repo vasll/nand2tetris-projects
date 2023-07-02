@@ -1,0 +1,5 @@
+*.tst linguist-vendored
+*.out linguist-vendored
+*.cmp linguist-vendored
+*.hack linguist-vendored
+06/* linguist-vendored  # Ignore files in project 06

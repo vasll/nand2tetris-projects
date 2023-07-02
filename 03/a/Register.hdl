@@ -14,5 +14,5 @@ CHIP Register {
     OUT out[16];
 
     PARTS:
-    // Put your code here:
+    //! Implemented in nand2tetris.circ as SixteenBitRegister
 }

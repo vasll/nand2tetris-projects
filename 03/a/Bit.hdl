@@ -14,5 +14,5 @@ CHIP Bit {
     OUT out;
 
     PARTS:
-    // Put your code here:
+    //! Implemented in nand2tetris.circ as OneBitRegister
 }
